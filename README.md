@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **yuslabibalogun2705@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
+- 🔭 **I’m currently working on:** A StartUp Project
 - 🌱 **I’m currently learning:** React
 - 👯 **I’m looking to collaborate on:** ReferX Startup Project
 - 🤔 **I’m looking for help with:** ReferX Startup Project
