@@ -44,8 +44,11 @@ Currently improving my skills in software engineering and AI.
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yustech-alt&theme=radical)<br/>
+**Version Control:** ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yustech-alt&theme=dark&hide_border=false)<br/>
+**Product:** ![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma) ![Jira](https://img.shields.io/badge/Jira-black?style=flat&logo=jira) ![Notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yustech-alt&theme=radical)
+- 🌐 [Visit my Portfolio](https://balogun-yusuf.vercel.app/) to view all my live projects
+- ✍️ I write about what I build on [Medium](https://medium.com/@yuslabibalogun2705)
+- 📧 Contact me via email at [yuslabibalogun2705@gmail.com](mailto:yuslabibalogun2705@gmail.com)
+
