@@ -1,54 +1,29 @@
-<h1 align="center">💫 Hi 👋, I'm Balogun  Yusuf
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuslabi)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/YusufBalog2983)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green.svg?logo=WhatsApp&logoColor=white)](https://wa.me/2349039097463)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yuslabibalogun2705)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuslabibalogun2705@gmail.com)
+<h1 align="center">Hi 👋, I'm Balogun Yusuf</h1>
+<h3 align="center">Full-Stack Engineer · Telegram Bots · Payments · Trading Systems</h3>
 
-</h1>
-
-<p align="left">I am a web developer who enjoys building from scratch.
-I work with React, Next.js, Tailwind CSS, and modern frontend tools.
-
-I care about performance, structure, and user experience.
-Currently improving my skills in software engineering and AI.
+<p align="center">
+<a href="https://www.linkedin.com/in/yuslabi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:yuslabibalogun2705@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://yusuf-balogun.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B7355?logo=vercel&logoColor=white" alt="portfolio"/></a>
 </p>
 
-### Tech Stack
+## ⚡️ What I build
+Telegram bots that run 24/7, Paystack/PayPal payment flows, trading dashboards on live WebSocket data, and full-stack React apps. Open-source contributor (Stellar/Stow).
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
-![Iconsax](https://img.shields.io/badge/Iconsax-%23000000.svg?style=for-the-badge&logo=iconsax&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+## 🚀 Featured builds
+| Project | What it does | Stack |
+|---|---|---|
+| [Script Doctor](https://github.com/yustech-alt/app) | AI agent that fact-checks screenplays against live web evidence | Python, Flask, Gemini |
+| [Bybit Market Scanner](https://github.com/yustech-alt/brf-bybit-backtest) | Ranks Bybit perps by volume/volatility, dashboard + Telegram alerts | Node.js, WebSocket |
+| [ResumeCheck](https://github.com/referx001-boop/Resume-checker2) | AI resume scorer with Paystack-paid reports | React, Express, Supabase |
+| [ReferX](https://www.referx.com.ng) | Web3 gig task marketplace | React, TypeScript, Node.js |
+| [Nikkis](https://github.com/yustech-alt/Nikkis-Ecommerces-website) | Full-stack e-commerce with Paystack checkout | React, Supabase |
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🛠 Stack
+![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Paystack](https://img.shields.io/badge/Paystack-0096D6?logo=paystack&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram%20Bot-26A5E4?logo=telegram&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
 
-#### Payment & Integrations
-![Stripe](https://img.shields.io/badge/Stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![Paystack](https://img.shields.io/badge/Paystack-%230096D6.svg?style=for-the-badge&logo=paystack&logoColor=white)
-![Flutterwave](https://img.shields.io/badge/Flutterwave-%23000000.svg?style=for-the-badge&logo=flutterwave&logoColor=white)
-![Monnify](https://img.shields.io/badge/Monnify-%231572B6.svg?style=for-the-badge)
+<img src="https://github-readme-stats.vercel.app/api?username=yustech-alt&show_icons=true&theme=dark&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yustech-alt&hide_border=true&theme=dark" height="160"/>
 
----
-
-**Version Control:** ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
-
-**Product:** ![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma) ![Jira](https://img.shields.io/badge/Jira-black?style=flat&logo=jira) ![Notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion)
-
-- 🌐 [Visit my Portfolio](https://balogun-yusuf.vercel.app/) to view all my live projects
-- ✍️ I write about what I build on [Medium](https://medium.com/@yuslabibalogun2705)
-- 📧 Contact me via email at [yuslabibalogun2705@gmail.com](mailto:yuslabibalogun2705@gmail.com)
-
+## 📫 Reach me
+email: yuslabibalogun2705@gmail.com · [portfolio](https://yusuf-balogun.vercel.app) · [resume](https://yusuf-balogun.vercel.app/Balogun_Yusuf_Resume_General.pdf)
